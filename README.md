@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XanderWitch
-- 👀 I’m interested in ... software development, web development, writing, graphic design, and book publishing. 
-- 🌱 I’m currently learning ... React and Redux.
-- 📫 How to reach me ... through my website at https://speculationsediting.com.
+- 👀 I’m interested in ... front-end software development, web development, writing, graphic design, and book publishing. 
+- 🌱 I’m currently learning ... Figma.
 
 <!---
 XanderWitch/XanderWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
