@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XanderWitch
-- 👀 I’m interested in ... front-end software development, web development, writing, graphic design, and book publishing. 
-- 🌱 I’m currently learning ... Figma.
+- 👀 I’m interested in ... front-end software development, web development, writing, graphic design, illustration, and book publishing. 
+
 
 <!---
 XanderWitch/XanderWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
